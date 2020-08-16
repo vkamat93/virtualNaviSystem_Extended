@@ -1,0 +1,5 @@
+amsterdam;52.331;4.8922
+darmstadt, 49.850,8.6527
+vasai,45,66
+berlin;52.5166;13.4
+berlin;52.5166;13.4
